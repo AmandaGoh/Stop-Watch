@@ -7,9 +7,10 @@ body{
 
 h1{
   text-align: center;
-  font-size: 65px;
+  font-size: 60px;
   margin: 25% auto;
   color: white;
+  font-family: 'Inconsolata', monospace;
 }
 
 .button{
@@ -18,8 +19,9 @@ h1{
   margin: 0px 20px;
   border-radius: 10px;
   position: relative;
-  left: 26%;
+  left: 28%;
   font-size: 20px;
+  font-family: 'Inconsolata', monospace;
   background: rgb(29, 235, 241);
   cursor: pointer;
 }
